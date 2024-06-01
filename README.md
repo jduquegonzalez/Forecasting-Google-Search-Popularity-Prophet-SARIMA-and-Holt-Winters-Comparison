@@ -94,4 +94,3 @@ This project demonstrates the application of time series forecasting techniques 
 ---
 
 Feel free to contribute to this project by opening issues or submitting pull requests.
-```
